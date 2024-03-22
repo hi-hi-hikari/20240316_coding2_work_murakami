@@ -2,6 +2,8 @@
 
 header{
   max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 
 nav{
@@ -10,7 +12,7 @@ nav{
   align-items: center;
   height: 140px;
   width: 87.5%;
-  margin: 50px;
+  margin: 0 auto;
 }
 
 h1{
@@ -48,7 +50,7 @@ h1{
 }
 
   li{
-    width: 50%;
+    width: 100%;
     text-align: left;
     padding: 5px 0;
     border-bottom: 1px solid black;
